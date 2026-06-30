@@ -27,6 +27,7 @@ Library-Management-System/
 │── library.txt          (Generated automatically)
 │── README.md
 ```
+library.txt is created automatically when the first book is added.
 
 ## ▶️ How to Run
 
